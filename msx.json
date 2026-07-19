@@ -1,7 +1,7 @@
 {
-  "name": "Телевизор 34",
-  "version": "1.0.0",
-  "icon": "https://televizor34.github.io/msxapp/logo.png",
+  "name": "ТВ 34",
+  "version": "1.0.2",
+  "icon": "https://tv34msx.github.io/logo.png",
   "type": "html",
-  "url": "https://televizor34.github.io/msxapp/index.html"
+  "url": "https://tv34msx.github.io/index.html"
 }
